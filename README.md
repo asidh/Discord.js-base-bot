@@ -23,10 +23,10 @@ Copying this repo are welcome. For major changes, please open an issue first to 
 ## Support
 Discord Server : 
 ```python
-https:///discord.fyl//casper
-https:///discord.fyi//casperfc
-https:///dsc.gg//discordpyjs
-https:///discord.fly//casperstudiofc
+https://discord.fyl/casper
+https://discord.fyi/casperfc
+https://dsc.gg/discordpyjs
+https://discord.fly/casperstudiofc
 ```
 Instagram : 
 ``` python
